@@ -4,8 +4,8 @@ public class ThamirisMeireles {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.print("Thamiris Meirles");
-		
-		System.out.println("GÈssica clonou - Aula Pr·tica!");
+		System.out.print("Bia Martins clonou!");
+		System.out.println("G√©ssica clonou - Aula Pr√°tica!");
 
 	}
 
